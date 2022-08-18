@@ -1,2 +1,2 @@
 # DrawChute
-It Creates meshes with collider using by touch input
+It creates meshes with collider using by touch input
